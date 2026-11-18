@@ -1,7 +1,6 @@
 __pycache__/
-*.py[cod]
+*.pyc
 .venv/
 venv/
-.env
-.vscode/
+.git-backup/
 Day-1/.git-backup/
